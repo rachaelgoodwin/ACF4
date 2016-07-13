@@ -12,3 +12,6 @@ no signficant similarity to green plants/land plants/flowering plants/seed plant
 
 no significant similarity to voles or common mushrooms 
 
+some genes matched in bugs 6+
+
+no significant similarty to drosophilidae
